@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Path, HTTPException, Query
+from typing import Optional
 import json
 
 app = FastAPI()
@@ -36,29 +37,31 @@ def hello():
 def about():
     return {"message": "A fully fledged Patient Management Syatem API to manage your patients"}
 
+
 @app.get("/view")
-def view():
+def view(
+    sort_by: Optional[str] = Query(None, description="Sort by: height, weight, bmi, age or h, w, b, a"),
+    order: Optional[str] = Query("asc", description="Sort order: asc, desc, a, d")
+):
     data = load_data()
+
+    if sort_by:
+        valid_sort_by = ["height", "weight", "bmi", "age", "h", "w", "b", "a"]
+        if sort_by not in valid_sort_by:
+            raise HTTPException(status_code=400, detail="Invalid sort_by parameter")
+
+        valid_order = ["asc", "desc", "a", "d"]
+        if order not in valid_order:
+            raise HTTPException(status_code=400, detail="Invalid order parameter")
+
+        # Normalize
+        sort_by = expand_query(sort_by)
+        order = expand_order(order)
+
+        # Sort
+        data = dict(sorted(data.items(), key=lambda x: x[1][sort_by], reverse=(order == "desc")))
+
     return data
-
-@app.get("/view/sort")
-def sort_patients(sort_by: str = Query(..., description="Sort on the basis of height, weight, bmi or age", example="height, b"), order: str = Query(..., description="Sort in ascending or descending order", example="asc, d")):
-    valid_sort_by = ["height", "weight", "bmi", "age", "h", "w", "b", "a"]
-
-    if(sort_by not in valid_sort_by):
-        raise HTTPException(status_code=400, detail="Invalid sort_by parameter")
-
-    valid_order = ["asc", "desc", "a", "d"]
-
-    if(order not in valid_order):
-        raise HTTPException(status_code=400, detail="Invalid order parameter")
-    
-    sort_by = expand_query(sort_by)
-    order = expand_order(order)
-
-    data = load_data()
-    sorted_data = sorted(data.items(), key=lambda x: x[1][sort_by], reverse=(order == "desc"))
-    return dict(sorted_data)
 
 @app.get("/patient/{patient_id}")
 def view_patient(patient_id: str = Path(..., description="ID of the patient.", example="P001")):
