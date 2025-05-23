@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Path, HTTPException, Query
+from fastapi import FastAPI, Path, HTTPException, Query, responses
 from typing import Optional
 import json
 
@@ -30,8 +30,8 @@ def expand_order(order):
         return order
 
 @app.get("/")
-def hello():
-    return {"message": "Patient Management Syatem API"}
+def redirect_to_docs():
+    return responses.RedirectResponse(url="/docs")
 
 @app.get("/about")
 def about():
