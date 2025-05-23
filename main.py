@@ -41,7 +41,7 @@ def about():
 @app.get("/view")
 def view(
     sort_by: Optional[str] = Query(None, description="Sort by: height, weight, bmi, age or h, w, b, a"),
-    order: Optional[str] = Query("asc", description="Sort order: asc, desc, a, d")
+    order: Optional[str] = Query("asc", description="Sort order: asc, desc, a, d"),
 ):
     data = load_data()
 
