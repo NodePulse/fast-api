@@ -1,5 +1,6 @@
-{
-    "P001": {
+[
+    {
+        "id": "P001",
         "name": "Ananya Sharma",
         "city": "Guwahati",
         "age": 28,
@@ -9,7 +10,8 @@
         "bmi": 33.06,
         "verdict": "Obese"
     },
-    "P002": {
+    {
+        "id": "P002",
         "name": "Ravi Mehta",
         "city": "Mumbai",
         "age": 35,
@@ -19,7 +21,8 @@
         "bmi": 27.76,
         "verdict": "Overweight"
     },
-    "P003": {
+    {
+        "id": "P003",
         "name": "Sneha Kulkarni",
         "city": "Pune",
         "age": 22,
@@ -29,7 +32,8 @@
         "bmi": 17.58,
         "verdict": "Underweight"
     },
-    "P004": {
+    {
+        "id": "P004",
         "name": "Arjun Verma",
         "city": "Bangalore",
         "age": 40,
@@ -39,7 +43,8 @@
         "bmi": 29.32,
         "verdict": "Overweight"
     },
-    "P005": {
+    {
+        "id": "P005",
         "name": "Neha Sinha",
         "city": "Kolkata",
         "age": 30,
@@ -49,7 +54,8 @@
         "bmi": 31.22,
         "verdict": "Obese"
     },
-    "P006": {
+    {
+        "id": "P006",
         "name": "Rahul Gupta",
         "city": "Hyderabad",
         "age": 19,
@@ -59,7 +65,8 @@
         "bmi": 18.17,
         "verdict": "Underweight"
     },
-    "P007": {
+    {
+        "id": "P007",
         "name": "Priya Singh",
         "city": "Delhi",
         "age": 25,
@@ -69,7 +76,8 @@
         "bmi": 23.63,
         "verdict": "Normal"
     },
-    "P008": {
+    {
+        "id": "P008",
         "name": "Amit Patel",
         "city": "Ahmedabad",
         "age": 33,
@@ -79,7 +87,8 @@
         "bmi": 26.99,
         "verdict": "Overweight"
     },
-    "P009": {
+    {
+        "id": "P009",
         "name": "Ritika Das",
         "city": "Kolkata",
         "age": 27,
@@ -89,7 +98,8 @@
         "bmi": 20.82,
         "verdict": "Normal"
     },
-    "P010": {
+    {
+        "id": "P010",
         "name": "Suresh Rao",
         "city": "Chennai",
         "age": 45,
@@ -99,7 +109,8 @@
         "bmi": 34.72,
         "verdict": "Obese"
     },
-    "P011": {
+    {
+        "id": "P011",
         "name": "Meena Iyer",
         "city": "Chennai",
         "age": 38,
@@ -109,7 +120,8 @@
         "bmi": 27.77,
         "verdict": "Overweight"
     },
-    "P012": {
+    {
+        "id": "P012",
         "name": "Vikram Joshi",
         "city": "Pune",
         "age": 29,
@@ -119,7 +131,8 @@
         "bmi": 23.04,
         "verdict": "Normal"
     },
-    "P013": {
+    {
+        "id": "P013",
         "name": "Pooja Reddy",
         "city": "Hyderabad",
         "age": 24,
@@ -129,7 +142,8 @@
         "bmi": 18.89,
         "verdict": "Normal"
     },
-    "P014": {
+    {
+        "id": "P014",
         "name": "Karan Malhotra",
         "city": "Delhi",
         "age": 36,
@@ -139,7 +153,8 @@
         "bmi": 33.21,
         "verdict": "Obese"
     },
-    "P015": {
+    {
+        "id": "P015",
         "name": "Ayesha Khan",
         "city": "Lucknow",
         "age": 31,
@@ -149,7 +164,8 @@
         "bmi": 28.43,
         "verdict": "Overweight"
     },
-    "P016": {
+    {
+        "id": "P016",
         "name": "Manoj Kumar",
         "city": "Patna",
         "age": 42,
@@ -159,7 +175,8 @@
         "bmi": 21.36,
         "verdict": "Normal"
     },
-    "P017": {
+    {
+        "id": "P017",
         "name": "Divya Nair",
         "city": "Kochi",
         "age": 26,
@@ -169,7 +186,8 @@
         "bmi": 20.32,
         "verdict": "Normal"
     },
-    "P018": {
+    {
+        "id": "P018",
         "name": "Rohit Sharma",
         "city": "Guwahati",
         "age": 34,
@@ -179,7 +197,8 @@
         "bmi": 33.88,
         "verdict": "Obese"
     },
-    "P019": {
+    {
+        "id": "P019",
         "name": "Sunita Das",
         "city": "Bhubaneswar",
         "age": 39,
@@ -189,7 +208,8 @@
         "bmi": 31.67,
         "verdict": "Obese"
     },
-    "P020": {
+    {
+        "id": "P020",
         "name": "Ajay Singh",
         "city": "Jaipur",
         "age": 28,
@@ -199,7 +219,8 @@
         "bmi": 22.99,
         "verdict": "Normal"
     },
-    "P021": {
+    {
+        "id": "P021",
         "name": "Simran Kaur",
         "city": "Amritsar",
         "age": 22,
@@ -209,7 +230,8 @@
         "bmi": 17.27,
         "verdict": "Underweight"
     },
-    "P022": {
+    {
+        "id": "P022",
         "name": "Harsh Vardhan",
         "city": "Delhi",
         "age": 41,
@@ -219,7 +241,8 @@
         "bmi": 30.86,
         "verdict": "Obese"
     },
-    "P023": {
+    {
+        "id": "P023",
         "name": "Shreya Ghosh",
         "city": "Kolkata",
         "age": 29,
@@ -229,7 +252,8 @@
         "bmi": 21.09,
         "verdict": "Normal"
     },
-    "P024": {
+    {
+        "id": "P024",
         "name": "Nitin Kapoor",
         "city": "Bhopal",
         "age": 37,
@@ -239,7 +263,8 @@
         "bmi": 25.73,
         "verdict": "Overweight"
     },
-    "P025": {
+    {
+        "id": "P025",
         "name": "Tanya Jain",
         "city": "Indore",
         "age": 32,
@@ -249,7 +274,8 @@
         "bmi": 26.56,
         "verdict": "Overweight"
     },
-    "P026": {
+    {
+        "id": "P026",
         "name": "Siddharth Roy",
         "city": "Kolkata",
         "age": 27,
@@ -259,7 +285,8 @@
         "bmi": 19.59,
         "verdict": "Normal"
     },
-    "P027": {
+    {
+        "id": "P027",
         "name": "Nisha Agarwal",
         "city": "Mumbai",
         "age": 24,
@@ -269,7 +296,8 @@
         "bmi": 16.77,
         "verdict": "Underweight"
     },
-    "P028": {
+    {
+        "id": "P028",
         "name": "Deepak Chawla",
         "city": "Delhi",
         "age": 38,
@@ -279,7 +307,8 @@
         "bmi": 31.84,
         "verdict": "Obese"
     },
-    "P029": {
+    {
+        "id": "P029",
         "name": "Radhika Menon",
         "city": "Kochi",
         "age": 35,
@@ -289,37 +318,41 @@
         "bmi": 26.87,
         "verdict": "Overweight"
     },
-    "P030": {
+    {
+        "id": "P030",
         "name": "Vivek Tiwari",
         "city": "Lucknow",
         "age": 30,
         "gender": "male",
         "height": 1.74,
         "weight": 82,
-        "bmi": 27.10,
+        "bmi": 27.1,
         "verdict": "Overweight"
     },
-    "P031": {
+    {
+        "id": "P031",
         "name": "Kavita Rao",
         "city": "Bangalore",
         "age": 28,
         "gender": "female",
-        "height": 1.60,
+        "height": 1.6,
         "weight": 53,
-        "bmi": 20.70,
+        "bmi": 20.7,
         "verdict": "Normal"
     },
-    "P032": {
+    {
+        "id": "P032",
         "name": "Sanjay Shetty",
         "city": "Mangalore",
         "age": 41,
         "gender": "male",
         "height": 1.69,
         "weight": 90,
-        "bmi": 31.50,
+        "bmi": 31.5,
         "verdict": "Obese"
     },
-    "P033": {
+    {
+        "id": "P033",
         "name": "Anjali Mishra",
         "city": "Kanpur",
         "age": 23,
@@ -329,7 +362,8 @@
         "bmi": 17.49,
         "verdict": "Underweight"
     },
-    "P034": {
+    {
+        "id": "P034",
         "name": "Aakash Jain",
         "city": "Indore",
         "age": 34,
@@ -339,7 +373,8 @@
         "bmi": 23.46,
         "verdict": "Normal"
     },
-    "P035": {
+    {
+        "id": "P035",
         "name": "Pallavi Sahu",
         "city": "Raipur",
         "age": 29,
@@ -349,7 +384,8 @@
         "bmi": 21.83,
         "verdict": "Normal"
     },
-    "P036": {
+    {
+        "id": "P036",
         "name": "Shyam Sundar",
         "city": "Chennai",
         "age": 39,
@@ -359,17 +395,19 @@
         "bmi": 32.54,
         "verdict": "Obese"
     },
-    "P037": {
+    {
+        "id": "P037",
         "name": "Mona Kapoor",
         "city": "Delhi",
         "age": 37,
         "gender": "female",
         "height": 1.59,
         "weight": 73,
-        "bmi": 28.90,
+        "bmi": 28.9,
         "verdict": "Overweight"
     },
-    "P038": {
+    {
+        "id": "P038",
         "name": "Gaurav Arora",
         "city": "Ludhiana",
         "age": 33,
@@ -379,7 +417,8 @@
         "bmi": 23.32,
         "verdict": "Normal"
     },
-    "P039": {
+    {
+        "id": "P039",
         "name": "Sonia Bansal",
         "city": "Amritsar",
         "age": 26,
@@ -389,7 +428,8 @@
         "bmi": 24.69,
         "verdict": "Normal"
     },
-    "P040": {
+    {
+        "id": "P040",
         "name": "Tarun Sharma",
         "city": "Gurgaon",
         "age": 31,
@@ -399,7 +439,8 @@
         "bmi": 29.61,
         "verdict": "Overweight"
     },
-    "P041": {
+    {
+        "id": "P041",
         "name": "Preeti Yadav",
         "city": "Noida",
         "age": 25,
@@ -409,7 +450,8 @@
         "bmi": 18.52,
         "verdict": "Normal"
     },
-    "P042": {
+    {
+        "id": "P042",
         "name": "Rajesh Pillai",
         "city": "Trivandrum",
         "age": 44,
@@ -419,7 +461,8 @@
         "bmi": 34.76,
         "verdict": "Obese"
     },
-    "P043": {
+    {
+        "id": "P043",
         "name": "Bhavna Chauhan",
         "city": "Jaipur",
         "age": 36,
@@ -429,7 +472,8 @@
         "bmi": 28.62,
         "verdict": "Overweight"
     },
-    "P044": {
+    {
+        "id": "P044",
         "name": "Prashant Singh",
         "city": "Patna",
         "age": 29,
@@ -439,7 +483,8 @@
         "bmi": 20.42,
         "verdict": "Normal"
     },
-    "P045": {
+    {
+        "id": "P045",
         "name": "Nandini Das",
         "city": "Bhubaneswar",
         "age": 27,
@@ -449,17 +494,19 @@
         "bmi": 18.42,
         "verdict": "Normal"
     },
-    "P046": {
+    {
+        "id": "P046",
         "name": "Yashwant Rao",
         "city": "Nagpur",
         "age": 38,
         "gender": "male",
         "height": 1.76,
         "weight": 92,
-        "bmi": 29.70,
+        "bmi": 29.7,
         "verdict": "Overweight"
     },
-    "P047": {
+    {
+        "id": "P047",
         "name": "Sakshi Gupta",
         "city": "Gwalior",
         "age": 24,
@@ -469,7 +516,8 @@
         "bmi": 21.73,
         "verdict": "Normal"
     },
-    "P048": {
+    {
+        "id": "P048",
         "name": "Ramesh Kumar",
         "city": "Ranchi",
         "age": 43,
@@ -479,7 +527,8 @@
         "bmi": 35.81,
         "verdict": "Obese"
     },
-    "P049": {
+    {
+        "id": "P049",
         "name": "Ankita Joshi",
         "city": "Pune",
         "age": 28,
@@ -489,7 +538,8 @@
         "bmi": 25.39,
         "verdict": "Overweight"
     },
-    "P050": {
+    {
+        "id": "P050",
         "name": "Devendra Patil",
         "city": "Nashik",
         "age": 35,
@@ -499,7 +549,8 @@
         "bmi": 27.77,
         "verdict": "Overweight"
     },
-    "P051": {
+    {
+        "id": "P051",
         "name": "Mitali Sen",
         "city": "Kolkata",
         "age": 31,
@@ -509,7 +560,8 @@
         "bmi": 23.18,
         "verdict": "Normal"
     },
-    "P052": {
+    {
+        "id": "P052",
         "name": "Sandeep Kaur",
         "city": "Chandigarh",
         "age": 40,
@@ -519,17 +571,19 @@
         "bmi": 30.86,
         "verdict": "Obese"
     },
-    "P053": {
+    {
+        "id": "P053",
         "name": "Aman Verma",
         "city": "Delhi",
         "age": 27,
         "gender": "male",
         "height": 1.75,
         "weight": 64,
-        "bmi": 20.90,
+        "bmi": 20.9,
         "verdict": "Normal"
     },
-    "P054": {
+    {
+        "id": "P054",
         "name": "Ruchi Sharma",
         "city": "Gurgaon",
         "age": 29,
@@ -539,7 +593,8 @@
         "bmi": 22.76,
         "verdict": "Normal"
     },
-    "P055": {
+    {
+        "id": "P055",
         "name": "Lokesh Jain",
         "city": "Indore",
         "age": 36,
@@ -549,7 +604,8 @@
         "bmi": 29.41,
         "verdict": "Overweight"
     },
-    "P056": {
+    {
+        "id": "P056",
         "name": "Vasudha Rao",
         "city": "Bangalore",
         "age": 33,
@@ -559,7 +615,8 @@
         "bmi": 30.81,
         "verdict": "Obese"
     },
-    "P057": {
+    {
+        "id": "P057",
         "name": "Soham Banerjee",
         "city": "Kolkata",
         "age": 23,
@@ -569,7 +626,8 @@
         "bmi": 19.61,
         "verdict": "Normal"
     },
-    "P058": {
+    {
+        "id": "P058",
         "name": "Chhavi Sharma",
         "city": "Delhi",
         "age": 26,
@@ -579,7 +637,8 @@
         "bmi": 20.16,
         "verdict": "Normal"
     },
-    "P059": {
+    {
+        "id": "P059",
         "name": "Rajat Kapoor",
         "city": "Mumbai",
         "age": 39,
@@ -589,7 +648,8 @@
         "bmi": 29.68,
         "verdict": "Overweight"
     },
-    "P060": {
+    {
+        "id": "P060",
         "name": "Nikita Bansal",
         "city": "Jaipur",
         "age": 28,
@@ -599,7 +659,8 @@
         "bmi": 26.45,
         "verdict": "Overweight"
     },
-    "P061": {
+    {
+        "id": "P061",
         "name": "Pranav Desai",
         "city": "Ahmedabad",
         "age": 30,
@@ -609,7 +670,8 @@
         "bmi": 24.69,
         "verdict": "Normal"
     },
-    "P062": {
+    {
+        "id": "P062",
         "name": "Riya Soni",
         "city": "Bhopal",
         "age": 25,
@@ -619,7 +681,8 @@
         "bmi": 19.89,
         "verdict": "Normal"
     },
-    "P063": {
+    {
+        "id": "P063",
         "name": "Ishaan Khanna",
         "city": "Delhi",
         "age": 32,
@@ -629,7 +692,8 @@
         "bmi": 21.96,
         "verdict": "Normal"
     },
-    "P064": {
+    {
+        "id": "P064",
         "name": "Aarti Pandey",
         "city": "Varanasi",
         "age": 37,
@@ -639,7 +703,8 @@
         "bmi": 31.25,
         "verdict": "Obese"
     },
-    "P065": {
+    {
+        "id": "P065",
         "name": "Yogesh Sharma",
         "city": "Gwalior",
         "age": 35,
@@ -649,7 +714,8 @@
         "bmi": 21.45,
         "verdict": "Normal"
     },
-    "P066": {
+    {
+        "id": "P066",
         "name": "Ankita Singh",
         "city": "Lucknow",
         "age": 24,
@@ -659,7 +725,8 @@
         "bmi": 24.54,
         "verdict": "Normal"
     },
-    "P067": {
+    {
+        "id": "P067",
         "name": "Rajiv Jain",
         "city": "Indore",
         "age": 38,
@@ -669,7 +736,8 @@
         "bmi": 34.57,
         "verdict": "Obese"
     },
-    "P068": {
+    {
+        "id": "P068",
         "name": "Rashmi Gupta",
         "city": "Kanpur",
         "age": 29,
@@ -679,7 +747,8 @@
         "bmi": 24.92,
         "verdict": "Normal"
     },
-    "P069": {
+    {
+        "id": "P069",
         "name": "Kunal Kapoor",
         "city": "Mumbai",
         "age": 31,
@@ -689,7 +758,8 @@
         "bmi": 24.72,
         "verdict": "Normal"
     },
-    "P070": {
+    {
+        "id": "P070",
         "name": "Shweta Sinha",
         "city": "Patna",
         "age": 27,
@@ -699,17 +769,19 @@
         "bmi": 26.61,
         "verdict": "Overweight"
     },
-    "P071": {
+    {
+        "id": "P071",
         "name": "Ramesh Bhat",
         "city": "Bangalore",
         "age": 42,
         "gender": "male",
         "height": 1.74,
         "weight": 108,
-        "bmi": 35.70,
+        "bmi": 35.7,
         "verdict": "Obese"
     },
-    "P072": {
+    {
+        "id": "P072",
         "name": "Priyanka Das",
         "city": "Bhubaneswar",
         "age": 34,
@@ -719,7 +791,8 @@
         "bmi": 31.25,
         "verdict": "Obese"
     },
-    "P073": {
+    {
+        "id": "P073",
         "name": "Amitabh Singh",
         "city": "Delhi",
         "age": 39,
@@ -729,7 +802,8 @@
         "bmi": 32.87,
         "verdict": "Obese"
     },
-    "P074": {
+    {
+        "id": "P074",
         "name": "Nidhi Jain",
         "city": "Indore",
         "age": 28,
@@ -739,7 +813,8 @@
         "bmi": 24.43,
         "verdict": "Normal"
     },
-    "P075": {
+    {
+        "id": "P075",
         "name": "Sagar Patil",
         "city": "Nashik",
         "age": 26,
@@ -749,17 +824,19 @@
         "bmi": 25.47,
         "verdict": "Overweight"
     },
-    "P076": {
+    {
+        "id": "P076",
         "name": "Kritika Sharma",
         "city": "Delhi",
         "age": 22,
         "gender": "female",
         "height": 1.6,
         "weight": 43,
-        "bmi": 16.80,
+        "bmi": 16.8,
         "verdict": "Underweight"
     },
-    "P077": {
+    {
+        "id": "P077",
         "name": "Vikas Dubey",
         "city": "Kanpur",
         "age": 36,
@@ -769,7 +846,8 @@
         "bmi": 29.09,
         "verdict": "Overweight"
     },
-    "P078": {
+    {
+        "id": "P078",
         "name": "Madhuri Rao",
         "city": "Hyderabad",
         "age": 29,
@@ -779,7 +857,8 @@
         "bmi": 30.39,
         "verdict": "Obese"
     },
-    "P079": {
+    {
+        "id": "P079",
         "name": "Naveen Kumar",
         "city": "Delhi",
         "age": 30,
@@ -789,7 +868,8 @@
         "bmi": 20.51,
         "verdict": "Normal"
     },
-    "P080": {
+    {
+        "id": "P080",
         "name": "Rashmi Patel",
         "city": "Ahmedabad",
         "age": 33,
@@ -799,7 +879,8 @@
         "bmi": 26.29,
         "verdict": "Overweight"
     },
-    "P081": {
+    {
+        "id": "P081",
         "name": "Siddhant Sharma",
         "city": "Gurgaon",
         "age": 27,
@@ -809,7 +890,8 @@
         "bmi": 23.24,
         "verdict": "Normal"
     },
-    "P082": {
+    {
+        "id": "P082",
         "name": "Tanvi Mehra",
         "city": "Pune",
         "age": 25,
@@ -819,7 +901,8 @@
         "bmi": 20.98,
         "verdict": "Normal"
     },
-    "P083": {
+    {
+        "id": "P083",
         "name": "Rohit Singh",
         "city": "Varanasi",
         "age": 38,
@@ -829,7 +912,8 @@
         "bmi": 34.22,
         "verdict": "Obese"
     },
-    "P084": {
+    {
+        "id": "P084",
         "name": "Sonal Gupta",
         "city": "Lucknow",
         "age": 31,
@@ -839,7 +923,8 @@
         "bmi": 25.48,
         "verdict": "Overweight"
     },
-    "P085": {
+    {
+        "id": "P085",
         "name": "Ashish Kumar",
         "city": "Patna",
         "age": 40,
@@ -849,7 +934,8 @@
         "bmi": 28.74,
         "verdict": "Overweight"
     },
-    "P086": {
+    {
+        "id": "P086",
         "name": "Pooja Sharma",
         "city": "Delhi",
         "age": 27,
@@ -859,7 +945,8 @@
         "bmi": 18.81,
         "verdict": "Normal"
     },
-    "P087": {
+    {
+        "id": "P087",
         "name": "Karan Singh",
         "city": "Bhopal",
         "age": 35,
@@ -869,7 +956,8 @@
         "bmi": 37.04,
         "verdict": "Obese"
     },
-    "P088": {
+    {
+        "id": "P088",
         "name": "Divya Mishra",
         "city": "Kanpur",
         "age": 28,
@@ -879,17 +967,19 @@
         "bmi": 22.76,
         "verdict": "Normal"
     },
-    "P089": {
+    {
+        "id": "P089",
         "name": "Rajat Sinha",
         "city": "Kolkata",
         "age": 33,
         "gender": "male",
         "height": 1.75,
         "weight": 79,
-        "bmi": 25.80,
+        "bmi": 25.8,
         "verdict": "Overweight"
     },
-    "P090": {
+    {
+        "id": "P090",
         "name": "Nisha Sharma",
         "city": "Delhi",
         "age": 29,
@@ -899,7 +989,8 @@
         "bmi": 28.62,
         "verdict": "Overweight"
     },
-    "P091": {
+    {
+        "id": "P091",
         "name": "Abhishek Pandey",
         "city": "Varanasi",
         "age": 42,
@@ -909,7 +1000,8 @@
         "bmi": 36.77,
         "verdict": "Obese"
     },
-    "P092": {
+    {
+        "id": "P092",
         "name": "Ritika Jain",
         "city": "Indore",
         "age": 25,
@@ -919,7 +1011,8 @@
         "bmi": 21.64,
         "verdict": "Normal"
     },
-    "P093": {
+    {
+        "id": "P093",
         "name": "Satyam Yadav",
         "city": "Noida",
         "age": 30,
@@ -929,7 +1022,8 @@
         "bmi": 23.94,
         "verdict": "Normal"
     },
-    "P094": {
+    {
+        "id": "P094",
         "name": "Ankita Verma",
         "city": "Delhi",
         "age": 27,
@@ -939,7 +1033,8 @@
         "bmi": 17.19,
         "verdict": "Underweight"
     },
-    "P095": {
+    {
+        "id": "P095",
         "name": "Aman Saini",
         "city": "Gurgaon",
         "age": 29,
@@ -949,7 +1044,8 @@
         "bmi": 19.27,
         "verdict": "Normal"
     },
-    "P096": {
+    {
+        "id": "P096",
         "name": "Neha Gupta",
         "city": "Delhi",
         "age": 26,
@@ -959,7 +1055,8 @@
         "bmi": 31.28,
         "verdict": "Obese"
     },
-    "P097": {
+    {
+        "id": "P097",
         "name": "Amit Bhatt",
         "city": "Noida",
         "age": 38,
@@ -969,7 +1066,8 @@
         "bmi": 31.49,
         "verdict": "Obese"
     },
-    "P098": {
+    {
+        "id": "P098",
         "name": "Riya Kapoor",
         "city": "Mumbai",
         "age": 23,
@@ -979,7 +1077,8 @@
         "bmi": 18.07,
         "verdict": "Normal"
     },
-    "P099": {
+    {
+        "id": "P099",
         "name": "Vivek Sharma",
         "city": "Delhi",
         "age": 35,
@@ -989,7 +1088,8 @@
         "bmi": 22.84,
         "verdict": "Normal"
     },
-    "P100": {
+    {
+        "id": "P100",
         "name": "Shilpa Reddy",
         "city": "Hyderabad",
         "age": 32,
@@ -998,5 +1098,16 @@
         "weight": 77,
         "bmi": 29.69,
         "verdict": "Overweight"
+    },
+    {
+        "id": "P101",
+        "name": "Karan Verma",
+        "city": "Jaipur",
+        "age": 31,
+        "gender": "male",
+        "height": 1.78,
+        "weight": 76.0,
+        "bmi": 23.99,
+        "verdict": "Normal"
     }
-}
+]
